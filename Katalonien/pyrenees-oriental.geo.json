@@ -1,3 +1,6 @@
+ {
+     "type": "FeatureCollection",
+     "features": [
      {
          "type": "Feature",
          "geometry":
@@ -249,4 +252,5 @@
              "code": "66",
              "nom": "Pyr\u00e9n\u00e9es-Orientales"
          }
-     },
+     }]
+ }
